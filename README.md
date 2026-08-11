@@ -13,7 +13,6 @@ I am using this repository to build and strengthen my skills in Python, Data Ana
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Machine Learning
 
 ## 📂 Current Notebook
 
@@ -70,6 +69,7 @@ Topics covered:
 - Identifying lower and upper bounds
 - Handling/removing outliers
 
+
 ## 🛠️ Technologies & Libraries
 
 - Python
@@ -106,4 +106,7 @@ Computer Science Student | Python & Machine Learning Learner
 
 ---
 
-⭐ If you find this repository useful, feel free to star it!
+If you find this repository useful, feel free to star it!
+
+
+
