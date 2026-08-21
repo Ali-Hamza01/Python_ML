@@ -38,6 +38,11 @@ This notebook focuses on understanding and handling missing values in datasets.
 - Working with numerical columns
 - Basic data cleaning techniques
 
+<<<<<<< HEAD
+=======
+### 02 - Data Inconsistencies
+
+>>>>>>> 476ba3a (initial commit)
 **File:** `02_data_inconsistencies.ipynb`
 
 I practiced identifying inconsistent data formats and values that can cause problems during data analysis.
@@ -69,7 +74,10 @@ Topics covered:
 - Identifying lower and upper bounds
 - Handling/removing outliers
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 476ba3a (initial commit)
 ## 🛠️ Technologies & Libraries
 
 - Python
