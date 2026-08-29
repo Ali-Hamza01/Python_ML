@@ -74,10 +74,6 @@ Topics covered:
 - Identifying lower and upper bounds
 - Handling/removing outliers
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 476ba3a (initial commit)
 ## 🛠️ Technologies & Libraries
 
 - Python
@@ -113,5 +109,6 @@ More topics will be added soon, including:
 Computer Science Student | Python & Machine Learning Learner
 
 --- 
+
 
 ⭐ If you find this repository useful, feel free to star it!
