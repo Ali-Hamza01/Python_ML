@@ -56,7 +56,7 @@ Examples include:
 - Cleaning and standardizing dataset values
 
 
-### 02 - Outliers
+### 03 - Outliers
 
 **File:** `03_Outliers.ipynb`
 
