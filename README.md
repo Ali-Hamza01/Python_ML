@@ -39,6 +39,37 @@ This notebook focuses on understanding and handling missing values in datasets.
 - Working with numerical columns
 - Basic data cleaning techniques
 
+**File:** `02_data_inconsistencies.ipynb`
+
+I practiced identifying inconsistent data formats and values that can cause problems during data analysis.
+
+Examples include:
+
+- Inconsistent categorical values
+- Different spellings or formats
+- Unwanted characters
+- Incorrect data types
+- Cleaning and standardizing dataset values
+
+
+### 02 - Outliers
+
+**File:** `03_Outliers.ipynb`
+
+I learned how to identify unusual or extreme values that are significantly different from the rest of the data.
+
+Topics covered:
+
+- Understanding what an outlier is
+- Detecting outliers using statistical methods
+- Understanding the Interquartile Range (IQR)
+- Calculating:
+   - Q1 (25th percentile)
+   - Q3 (75th percentile)
+   - IQR
+- Identifying lower and upper bounds
+- Handling/removing outliers
+
 ## 🛠️ Technologies & Libraries
 
 - Python
